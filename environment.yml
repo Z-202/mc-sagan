@@ -1,0 +1,20 @@
+name: mc-sagan
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - matplotlib
+  - nibabel
+  - pytorch
+  - torchvision
+  - torchaudio
+  - git
+  - pip:
+      - monai
+      - pytorch-msssim
+      - medpy

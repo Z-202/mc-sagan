@@ -1,0 +1,1 @@
+put the resnet_50_23dataset.pth in this folder

@@ -1,0 +1,14 @@
+The extracted activation features are saved in the activations_all_modalities directory.
+
+```text
+activations_all_modalities/
+├── t1n/
+│   ├── mu_real.npy
+│   ├── sigma_real.npy
+│   ├── mu_fake.npy
+│   └── sigma_fake.npy
+├── t1c/
+│   └── ...
+└── t2f/
+    └── ...
+```
